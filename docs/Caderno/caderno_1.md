@@ -14,11 +14,11 @@ Atuam como especie de máscaras para expressões. Custam muito caro. Porém, sã
 ### $   
     Fim da linha
 
-### \<  
-    (adiciona depois)
+###     \ <  
+    Início de uma palavra
     
-### \>
-       (adiciona depois)
+### \ >
+       Final de uma palavra
 
 ### \
     Escape
