@@ -1,6 +1,6 @@
 site_name: Compiladores
 nav:
-    - Home: home.md
+    - Home: index.md
     - Caderno: Caderno/caderno_1.md
 theme:
     name: dracula
