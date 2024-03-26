@@ -8,7 +8,7 @@ Reposítório destinado a armazenar conteúdos e exercicios da disciplina de Com
 
 [Caderno 2]()
 
-testes
+
 
 ## Exercicios
 
