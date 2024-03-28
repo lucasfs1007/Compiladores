@@ -1,6 +1,10 @@
 site_name: Compiladores
+
+docs_dir: './docs'
+
 nav:
     - Home: index.md
-    - Caderno: Caderno/Caderno 1
+    - Caderno: Caderno
+        - Expressões Regulares: Caderno1/expressoesRegulares.md
 theme:
     name: dracula
