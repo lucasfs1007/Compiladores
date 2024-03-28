@@ -45,4 +45,4 @@ Utilize o link a seguir para estudar com mais detalhes e visualizar exemplos: [L
 
 ### Exemplo - Máscara de CPF
 
-grep -E '\<([0-9]{3}\.){2}[0-9]{3}-[0-9]{2}\>
+    grep -E '\<([0-9]{3}\.){2}[0-9]{3}-[0-9]{2}\>
