@@ -46,3 +46,13 @@ Utilize o link a seguir para estudar com mais detalhes e visualizar exemplos: [L
 ### Exemplo - Máscara de CPF
 
     grep -E '\<([0-9]{3}\.){2}[0-9]{3}-[0-9]{2}\>
+
+### Expressão regular para verificar se um número é Par.
+
+    grep -E '[02468]\>
+
+
+### Expressão regular para verificar se um número é Impar.
+
+    grep -E '[^02468]\>
+
