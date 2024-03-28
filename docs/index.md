@@ -10,8 +10,6 @@ Este espaço foi criado para facilitar o aprendizado e a organização dos conte
 
 [Caderno 2]()
 
-
-
 ## Exercicios
 
 [Lista 1]()
