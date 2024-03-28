@@ -1,6 +1,8 @@
 # Home
 
-Reposítório destinado a armazenar conteúdos e exercicios da disciplina de Compiladores. Professor Bruno Ribas, 2024.1.
+Seja bem-vindo ao repositório da disciplina Compiladores!
+
+Este espaço foi criado para facilitar o aprendizado e a organização dos conteúdos e exercícios da disciplina ministrada pelo Professor Bruno Ribas no primeiro semestre de 2024.
 
 ## Caderno 
 
