@@ -6,7 +6,7 @@ Este espaço foi criado para facilitar o aprendizado e a organização dos conte
 
 ## Caderno 
 
-[Caderno 1](Caderno/Caderno1/expressoesRegulares.md)
+[Caderno 1 - Automatos](./docs/Caderno/Caderno1/automatos.md)
 
 [Caderno 2]()
 
