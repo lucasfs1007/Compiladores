@@ -6,7 +6,9 @@
 
 #### Modelo matemático
 
-####
+#### Utilizado para reconhecer uma linguagem
+
+#### Modela uma máquina simples
 
 #### Possui entradas e saídas finitas
 
@@ -46,13 +48,13 @@
 
 ### Definição Formal:
 
-    ADICIONA A FORMULA AQUI DPS
-    E A IMAGEM
+[!formula](/docs/Caderno/Caderno1/Imagens/photo1711965680.jpeg)
+
+[!tabela verdade](/docs/Caderno/Caderno1/Imagens/photo1711965680%20(1).jpeg)
 
 ### Função de transição estendida
 
-    Representação do consumo da palavra.
-    BOta a imagem de exemplo dps tbm
+[!consumo palavra](/docs/Caderno/Caderno1/Imagens/photo1711965680%20(2).jpeg)
 
 ### Um  automato finito sempre termina, não existe loop infinito.
 
