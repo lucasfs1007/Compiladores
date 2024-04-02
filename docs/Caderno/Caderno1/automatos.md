@@ -48,13 +48,13 @@
 
 ### Definição Formal:
 
-[!formula](/docs/Caderno/Caderno1/Imagens/photo1711965680.jpeg)
+![formula](/docs/Caderno/Caderno1/Imagens/photo1711965680.jpeg)
 
-[!tabela verdade](/docs/Caderno/Caderno1/Imagens/photo1711965680%20(1).jpeg)
+![tabela verdade](/docs/Caderno/Caderno1/Imagens/photo1711965680%20(1).jpeg)
 
 ### Função de transição estendida
 
-[!consumo palavra](/docs/Caderno/Caderno1/Imagens/photo1711965680%20(2).jpeg)
+![consumo palavra](/docs/Caderno/Caderno1/Imagens/photo1711965680%20(2).jpeg)
 
 ### Um  automato finito sempre termina, não existe loop infinito.
 
