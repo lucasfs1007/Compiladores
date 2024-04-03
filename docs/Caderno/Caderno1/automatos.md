@@ -47,9 +47,7 @@
     Determina a transição de estado conforme estado corrente e simbolo de entrada lido.
 
 ### Definição Formal:
-
- <figure markdown>![formula](/docs/Caderno/Caderno1/Imagens/photo1711965680.jpeg) </figure> 
-
+![formula](/docs/Caderno/Caderno1/Imagens/photo1711965680.jpeg) 
 ![tabela verdade](/docs/Caderno/Caderno1/Imagens/photo1711965680%20(1).jpeg)
 
 ### Função de transição estendida
