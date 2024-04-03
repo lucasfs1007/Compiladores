@@ -47,12 +47,16 @@
     Determina a transição de estado conforme estado corrente e simbolo de entrada lido.
 
 ### Definição Formal:
-![formula](/docs/Caderno/Caderno1/Imagens/photo1711965680.jpeg) 
-![tabela verdade](/docs/Caderno/Caderno1/Imagens/photo1711965680%20(1).jpeg)
+
+<img src="/docs/Caderno/Caderno1/Imagens/photo1711965680.jpeg" alt="Formula" />
+
+<img src="/docs/Caderno/Caderno1/Imagens/photo1711965680%20(1).jpeg" alt="Tabela verdade" />
+
+
 
 ### Função de transição estendida
 
-![consumo palavra](/docs/Caderno/Caderno1/Imagens/photo1711965680%20(2).jpeg)
+<img src=/docs/Caderno/Caderno1/Imagens/photo1711965680%20(2).jpeg" alt="Consumo palavra" />
 
 ### Um  automato finito sempre termina, não existe loop infinito.
 
