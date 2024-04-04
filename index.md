@@ -4,9 +4,15 @@ Seja bem-vindo ao repositório da disciplina Compiladores!
 
 Este espaço foi criado para facilitar o aprendizado e a organização dos conteúdos e exercícios da disciplina ministrada pelo Professor Bruno Ribas no primeiro semestre de 2024.
 
-## Caderno 
+## Cadernos
 
-[Caderno 1 - Automatos](./docs/Caderno/Caderno1/automatos.md)
+### Caderno 1:
+
+- [Expressões Regulares](./docs/Caderno/Caderno1/expressoesRegulares.md)
+- [Automatos](./docs/Caderno/Caderno1/automatos.md)
+
+
+### Caderno 2
 
 [Caderno 2]()
 
