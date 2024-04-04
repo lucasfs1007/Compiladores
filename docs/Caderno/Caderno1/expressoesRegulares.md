@@ -1,6 +1,6 @@
 # Expressões Regulares
 
-Atuam como especie de máscaras para expressões. Custam muito caro. Porém, são muito utéis.
+Atuam como especie de ```máscaras``` para expressões. Custam muito caro. Porém, são muito utéis.
 
 ## Caracteres especiais em expressões regulares
 
@@ -41,7 +41,8 @@ Atuam como especie de máscaras para expressões. Custam muito caro. Porém, sã
 Utilize o link a seguir para estudar com mais detalhes e visualizar exemplos: [Link](https://www.devmedia.com.br/iniciando-expressoes-regulares/6557)
 
 ## Comando "grep"
-    Serve para fazer buscas em arquivos utilizando expressões regulares.
+
+    Serve para fazer  buscas em arquivos utilizando expressões regulares.
 
 ### Exemplo - Máscara de CPF
 
@@ -55,4 +56,6 @@ Utilize o link a seguir para estudar com mais detalhes e visualizar exemplos: [L
 ### Expressão regular para verificar se um número é Impar.
 
     grep -E '[^02468]\>
+
+
 
