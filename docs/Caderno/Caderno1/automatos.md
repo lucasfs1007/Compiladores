@@ -48,15 +48,15 @@
 
 ### Definição Formal:
 
-<img src="https://github.com/lucasfs1007/Compiladores/blob/1338bfa502a68ed006bed981c697f9abe1e7e6e5/docs/Caderno/Caderno1/Imagens/photo1711965680.jpeg" alt="Formula" />
+<img src="Imagens/picture1.png" alt="Formula" />
 
-<img src="https://github.com/lucasfs1007/Compiladores/blob/1338bfa502a68ed006bed981c697f9abe1e7e6e5/docs/Caderno/Caderno1/Imagens/photo1711965680%20(1).jpeg" alt="Tabela verdade" />
+<img src="Imagens/picutre2.png" alt="Tabela verdade" />
 
 
 
 ### Função de transição estendida
 
-<img src="https://github.com/lucasfs1007/Compiladores/blob/1338bfa502a68ed006bed981c697f9abe1e7e6e5/docs/Caderno/Caderno1/Imagens/photo1711965680%20(2).jpeg" alt="Consumo palavra" />
+<img src="Imagens/picture3.png" alt="Consumo palavra" />
 
 ### Um  automato finito sempre termina, não existe loop infinito.
 
