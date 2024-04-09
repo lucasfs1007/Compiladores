@@ -76,4 +76,14 @@
 
     Muito similar ao conceito de threads.
 
+    Todo AFN tem um AFD equivalente se K é o número de estados do AFN, ele tem 2^k subconjuntos de estados. Se ele possui 4 estados em AFN, quando ele passar parar AFD terá 16 estados.
+
+    Cada subconjunto corresponde a uma das possibilidades de que o AFD tem que se lembrar, portanto o AFD que simula o AFN terá 2^k estados.
+
+    Podemos ir para mais de um estado consumindo um mesmo simbolo.
+
+    Qualquer autômato finito não determinístico pode se tornar determinístico. Sempre começamos apenas por um único estado, mas podemos finalizar num conjunto de estados finais.
+
+
+
 
