@@ -9,8 +9,11 @@
 ### Passos
 
 <img src="Imagens/passo1.png" alt="Consumo palavra" />
+
 <img src="Imagens/passo2.png" alt="Consumo palavra" />
+
 <img src="Imagens/passo3.png" alt="Consumo palavra" />
+
 <img src="Imagens/exemplo.png" alt="Consumo palavra" />
 
 ### Autômoto Finito não determinístico e generalizado (AFNG)
@@ -28,7 +31,9 @@
     Para converter um AFD para um AFNG adicionando um novo estado inicial e um novo estado de aceitação e setas adicionais conforme necessário. Usamos o procedimento CONVERT(G) que toma um AFNG como entrada e retorna uma expressão regular equivalente.
 
 <img src="Imagens/afngPasso1.png" alt="Consumo palavra" />
+
 <img src="Imagens/afngPasso2.png" alt="Consumo palavra" />
+
 <img src="Imagens/afngPasso4.png" alt="Consumo palavra" />
 
 

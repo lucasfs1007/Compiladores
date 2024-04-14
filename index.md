@@ -9,8 +9,10 @@ Este espaço foi criado para facilitar o aprendizado e a organização dos conte
 ### Caderno 1:
 
 - [Expressões Regulares](./docs/Caderno/Caderno1/expressoesRegulares.md)
+
 - [Automatos](./docs/Caderno/Caderno1/automatos.md)
--[Regex](./docs/Caderno/Caderno1/regex.md)
+
+- [Regex](./docs/Caderno/Caderno1/regex.md)
 
 
 ### Caderno 2
