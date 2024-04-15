@@ -10,9 +10,11 @@ Este espaço foi criado para facilitar o aprendizado e a organização dos conte
 
 - [Expressões Regulares](./docs/Caderno/Caderno1/expressoesRegulares.md)
 
-- [Automatos](./docs/Caderno/Caderno1/automatos.md)
+- [Autômatos Finitos e Determínisticos](./docs/Caderno/Caderno1/afd.md)
 
-- [Regex](./docs/Caderno/Caderno1/regex.md)
+- [Autômatos Finitos e não Determinísticos](./docs/Caderno/Caderno1/afnd.md)
+
+- [ Autômoto Finito não determinístico e generalizado](./docs/Caderno/Caderno1/afng.md)
 
 
 ### Caderno 2
