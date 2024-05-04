@@ -23,6 +23,8 @@ Este espaço foi criado para facilitar o aprendizado e a organização dos conte
 
 ## Exercicios
 
-[Lista 1]()
+[Lista 1](/docs/Lista%201/lista1.md))
+
+[Lista 2]()
 
 ## Trabalho Final

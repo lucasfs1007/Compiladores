@@ -6,7 +6,7 @@
 
 - Modelo matemático
 
--  Utilizado para reconhecer uma linguagem
+-  Utilizado para **reconhecer uma linguagem**
 
 -  Modela uma máquina simples
 
@@ -19,13 +19,13 @@
 
 - Em geral são representados em um diagrama de estados.
 
-- Ele lê um estado por vez e não volta atrás nas decisões.
+- **Ele lê um estado por vez e não volta atrás nas decisões**.
 
 #### Possui entradas e saídas finitas
 
-- Entrada: Determinada sequência de simbolos do alfabeto. Possuímos uma ÚNICA entrada que é indicada com uma seta que vem de nenhum outro estado.
+- Entrada: Determinada sequência de simbolos do alfabeto. Possuímos uma **ÚNICA entrada** que é indicada com uma seta que vem de nenhum outro estado.
 
-- Saída: estados que devem ser predefinidos. São indicados com círculos duplos e podemos ter mais de um.
+- Saída: estados que devem ser predefinidos. São indicados com círculos duplos e **podemos ter mais de um**.
 
 #### por que é pré definido ?
 
@@ -74,12 +74,12 @@
 
 #### Aceita
 
-- Processa a palavra inteira e chega a um estado final.
+- Processa a palavra inteira e **chega a um estado final**.
 
-- Dizemos que aceita uma cadeia, se e somente se ao iniciarmos dado um estado inicial conseguirmos chegar um estado final durante o processamento.
+- Dizemos que aceita uma cadeia, se e somente se ao iniciarmos dado **um estado inicial conseguirmos chegar um estado final** durante o processamento.
 
 #### Rejeita
 
-- Processa a palavra inteira e não chega a um estado final.
+- Processa a palavra inteira e **não chega a um estado final.**
    
 - Função indefinida para argumento(estado e simbolo)
