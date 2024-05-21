@@ -8,23 +8,16 @@ Este espaço foi criado para facilitar o aprendizado e a organização dos conte
 
 ### Caderno 1:
 
-- [Expressões Regulares](./docs/Caderno/Caderno1/expressoesRegulares.md)
-
-- [Autômatos Finitos e Determínisticos](./docs/Caderno/Caderno1/afd.md)
-
-- [Autômatos Finitos e não Determinísticos](./docs/Caderno/Caderno1/afnd.md)
-
-- [ Autômoto Finito não determinístico e generalizado](./docs/Caderno/Caderno1/afng.md)
-
+[Caderno 1](/docs/Caderno/Caderno1/caderno1.md)
 
 ### Caderno 2
 
-[Caderno 2]()
+[Caderno 2](/docs/Caderno/Caderno2/caderno2.md)
 
 ## Exercicios
 
 [Lista 1](/docs/Lista%201/lista1.md))
 
-[Lista 2]()
+[Lista 2](/docs/Lista%202/lista2.md)
 
 ## Trabalho Final
